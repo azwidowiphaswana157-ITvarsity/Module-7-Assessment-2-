@@ -1,0 +1,162 @@
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin: 0%;
+    padding: 0%;
+    height: 100%;   
+}
+
+#home-logo-img{
+    width: 200px;
+    height: 100px;
+    display: block;
+    margin: auto;
+    padding-top: 5px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+
+      
+}
+
+.home-main-item{
+    text-decoration: none;
+    text-transform: uppercase;
+    color: white;
+    font-size: 25px;
+    text-align: center;
+    border: 5px solid grey;
+
+    display: block;
+    margin: auto;
+    margin-bottom: 10px;
+    width: 80%;
+}
+
+.back-of-item{
+    background-image: url('images/sigmund-x7-h2yuZVRs-unsplash.jpg'); 
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.fabfa-android{
+    size: 100px ;
+}
+
+.meals-list a{
+    text-decoration: none;
+}
+.meals-list-item{
+    border: 5px solid white;
+    margin: 10px;
+}
+.meals-list-item h1{
+    font-weight: bold;
+    font-size: 20px;
+    color: orange;
+    padding: 10px;
+}
+
+.meals-list-item i{
+    float: right;
+    color: orange;
+    padding-right: 28px;
+}
+
+.meals-list-item p{
+    font-size: 15px;
+    font-style: italic;
+    color: white;
+    margin-top: -7px;
+    padding-left: 10px;
+}
+
+.body-meals{
+    background-image: url('images/lukas-blazek-EWDvHNNfUmQ-unsplash.jpg');
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.header img{
+    width: 250px;   
+    padding-top: 14px;
+    padding-right: 25px;
+    
+}
+
+#meals {
+    padding-top: 50px;
+}
+
+.recipe-details {
+    width: 100%;
+}
+
+.recipe-details h1{
+    font-size: 25px;
+    text-align: center;
+    border: 5px solid #1a1a1a;
+    margin: 10px;
+    padding: 5px;
+}
+
+#recipe {
+    padding-top:50px;
+}
+
+.recipe-details-info {
+    margin-left: 25px;
+    margin-right: 25px;
+}
+
+.recipe-details-info p{
+    font-size: 13px;
+    display: inline-block;
+
+} 
+
+.recipe-details h2{
+    font-size: 20px;
+    text-align: left;
+    margin: 0;
+    margin-left: 10px;
+}
+
+.recipe-details-steps{
+    padding-top: 20px;
+}
+.recipe-details-steps ol{
+    padding-left: 28px ;
+}
+
+#center-content{
+    text-align: center;
+}
+
+.back-icon {
+    font-size: 18px;
+    text-align: center;
+    margin: 500px;
+    padding: 0px; 
+}
+
+.bgi{
+    background-image: url('images/emile-mbunzama-cLpdEA23Z44-unsplash.jpg'); 
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.siz{
+    color: white;
+    font-size: 30px;
+    text-align: center;
+}
+
+.con {
+    color: orange;
+}
